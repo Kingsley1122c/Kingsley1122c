@@ -1,16 +1,43 @@
-## Hi there 👋
+# Kingsley Okoye
 
-<!--
-**Kingsley1122c/Kingsley1122c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Web & FinTech
 
-Here are some ideas to get you started:
+I build modern web applications with a focus on practical functionality, thoughtful user experiences, and maintainable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in financial technology, full-stack development, and building digital products that solve real-world problems.
+
+---
+
+## Technology Stack
+
+**Languages**  
+JavaScript · TypeScript · PHP
+
+**Frontend**  
+React · Next.js · Vite · HTML · CSS
+
+**Backend**  
+Node.js · Express
+
+**Databases & Tools**  
+PostgreSQL · SQLite · Firebase · Git · GitHub
+
+## Featured Project
+
+### Citizavrexo
+
+A client project I developed and have permission to showcase publicly. The project demonstrates full-stack financial application development. Client-confidential information is not included here.
+
+[View the Citizavrexo repository](https://github.com/Kingsley1122c/citizavrexo)
+
+## Areas of Interest
+
+- Full-stack web development
+- Financial technology
+- Modern application architecture
+- Responsive dashboards
+- Software security and reliability
+
+## Connect
+
+[GitHub](https://github.com/Kingsley1122c)
